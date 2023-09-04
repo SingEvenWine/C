@@ -1,0 +1,4 @@
+﻿  源.c
+E:\Project\c\Practice\1083_Numerical_Statistics\源.c(8,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Project\c\Practice\1083_Numerical_Statistics\源.c(10,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  1083_Numerical_Statistics.vcxproj -> E:\Project\c\Practice\x64\Debug\1083_Numerical_Statistics.exe

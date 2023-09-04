@@ -1,0 +1,4 @@
+﻿  源.c
+E:\Project\c\Practice\1085_odd_product\源.c(4,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Project\c\Practice\1085_odd_product\源.c(8,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  1085_odd_product.vcxproj -> E:\Project\c\Practice\x64\Debug\1085_odd_product.exe

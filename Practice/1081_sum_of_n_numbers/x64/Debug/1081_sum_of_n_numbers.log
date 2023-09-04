@@ -1,0 +1,5 @@
+﻿  源.c
+E:\Project\c\Practice\1081_sum_of_n_numbers\源.c(4,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Project\c\Practice\1081_sum_of_n_numbers\源.c(7,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Project\c\Practice\1081_sum_of_n_numbers\源.c(9,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  1081_sum_of_n_numbers.vcxproj -> E:\Project\c\Practice\x64\Debug\1081_sum_of_n_numbers.exe
